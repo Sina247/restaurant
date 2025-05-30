@@ -9,5 +9,4 @@ A digital solution for restaurant management, offering features like menu displa
 - 🛎️ **Order tracking** : Monitor orders in real-time for smooth kitchen workflow.  
 - 📅 **Reservation system** : Allow customers to book tables easily online.  
 - 📝 **Customer feedback** : Collect and manage reviews to enhance service quality.  
-- 📱💻 **Responsive design** : Perfectly usable on all devices, from phones to desktops.  
-- 🌐 **Pure HTML, CSS, and JavaScript / React** : Lightweight and easy to customize.
+- 📱 **Responsive design** : Perfectly usable on all devices, from phones to desktops.
